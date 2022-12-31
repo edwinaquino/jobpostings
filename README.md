@@ -24,7 +24,9 @@ Foobar is a Python library for dealing with word pluralization.
 ## Installation
 
 ```bash
-git clone https://github.com/edwinaquino/jobpostings.git
+$ git clone https://github.com/edwinaquino/jobpostings.git
+
+$ cd jobpostings
 
 $ composer install
 ```
